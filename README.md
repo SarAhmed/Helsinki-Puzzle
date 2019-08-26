@@ -10,11 +10,13 @@ You must place a number in each cell of the N by N grid such that :-
 ## Examples
 For a 3 × 3 grid, you may have the following matrix
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  | c1 | c2 | c3 |
+|---|---|---|---|
+| r1 | 2 | 1 | 2 |
+|---|---|---|---|
+| r2 | 2 | 2 | 1 |
+|---|---|---|---|
+| r3 | 1 | 2 | 2 |
 
 
 
