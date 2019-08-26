@@ -25,5 +25,5 @@ defined by the following equalities:
 *c4 = r1
  
  # Acknowledgment
- This project outline was designed by the MET department at the German University in Cairo [link](https://drive.google.com/file/d/1k4CCRUe5IlY1n49_BEGq3T1s_-0fihiI/view?usp=sharing).
+ This project outline was designed by the MET department at the German University in Cairo [link](http://met.guc.edu.eg/Download.ashx?id=28714&file=Project_Descr_Updated_28714.pdf).
 
