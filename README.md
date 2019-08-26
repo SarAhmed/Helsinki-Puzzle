@@ -11,7 +11,7 @@ You must place a number in each cell of the N by N grid such that :-
 For a 3 × 3 grid, you may have the following matrix
 ```
 |   | c1 | c2 | c3 |
-| -- | -- | -- | -- |
+| --- | --- | --- | --- |
 | r1 | 2 | 1 | 2 |
 
 ```
