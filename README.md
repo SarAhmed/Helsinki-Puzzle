@@ -10,9 +10,11 @@ You must place a number in each cell of the N by N grid such that :-
 ## Examples
 For a 3 × 3 grid, you may have the following matrix
 ```
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ```
