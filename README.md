@@ -9,7 +9,7 @@ You must place a number in each cell of the N by N grid such that :-
 * If X is the largest number you place in the grid, then you must also place1,2,...,X-1, where the condition X ≤ N is satisfied.<br/>
 ## Examples
 For a 3 × 3 grid, you may have the following matrix
-```
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
@@ -17,4 +17,4 @@ For a 3 × 3 grid, you may have the following matrix
 | zebra stripes | are neat      |    $1 |
 
 
-```
+
