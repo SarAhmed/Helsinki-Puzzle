@@ -11,11 +11,12 @@ You must place a number in each cell of the N by N grid such that :-
 
 For a 4 × 4 grid, you may have the following matrix
 
-|  | `c1` | `c2` | `c3` | `c3`|
-| r1| 1|2| 3| 1|
-|r2 |3 |4 |4 |2|
-|r3 |2 |4 |4 |3|
-|r4 |1| 3| 2| 1|
+|    | `c1` | `c2` | `c3` | `c3`|
+|---|---|---|---|---|
+| r1 | 1    |2     |   3  | 1   |
+|r2  |3     |4     |   4  |2    |
+|r3  |2     |4     |4     |3    |
+|r4  |1     | 3    | 2    | 1   |
 
 defined by the following equalities:
 *c1 = r2
