@@ -19,10 +19,10 @@ For a 4 × 4 grid, you may have the following matrix
 |`r4`  |1     | 3    | 2    | 1   |
 
 defined by the following equalities:
-*c1 = r4
-*c2 = r3
-*c3 = r2
-*c4 = r1
+* c1 = r4
+* c2 = r3
+* c3 = r2
+* c4 = r1
  
  # Acknowledgment
  This project outline was designed by the MET department at the German University in Cairo [link](http://met.guc.edu.eg/Download.ashx?id=28714&file=Project_Descr_Updated_28714.pdf).
